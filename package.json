@@ -1,0 +1,40 @@
+{
+  "name": "@hutko/icons",
+  "title": "Icons Pack",
+  "description": "hutko payment method icons",
+  "homepage": "https://hutko.org/",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "gulp",
+    "release": "./scripts/release.sh"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hutkorg/icons.git"
+  },
+  "dependencies": {
+    "flag-icons": "^7.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "minimist": "^1.2.8",
+    "prettier": "^3.4.2",
+    "svgo": "^3.3.2"
+  },
+  "version": "1.0.0",
+  "keywords": [
+    "hutko"
+  ],
+  "author": {
+    "name": "Checkout JavaScript Team"
+  },
+  "bugs": {
+    "url": "https://github.com/hutkorg/icons/issues"
+  }
+}
