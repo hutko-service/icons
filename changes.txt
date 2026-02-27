@@ -1,0 +1,17 @@
+2025.08.06 => 1.0.5
+    * Iban logos were added
+
+2025.08.06 => 1.0.4
+    * feature: PUMB logo was added
+
+2025.06.17 => 1.0.3
+    * Unnecessary icons were deleted
+
+2025.04.18 => 1.0.2
+    * Placeholder favicons were replaced with branding ones
+
+2025.03.13 => 1.0.1
+    * Keywords were modified in package.json
+
+2025.03.13 => 1.0.0
+    * Initial version
