@@ -1,4 +1,7 @@
-2025.08.06 => 1.0.5
+2026.03.13 => 1.0.6
+    * Iban logos were added - kredobank and raiffeisenbank
+
+2026.02.27 => 1.0.5
     * Iban logos were added
 
 2025.08.06 => 1.0.4
