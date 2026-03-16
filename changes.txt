@@ -1,3 +1,6 @@
+2026.03.16 => 1.0.7
+    * Version issue
+
 2026.03.13 => 1.0.6
     * Iban logos were added - kredobank and raiffeisenbank
 
